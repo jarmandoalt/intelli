@@ -1,23 +1,31 @@
-# intelliMotors Prueba
+# Intrucciones para correr el programa
 
-Intrucciones para correr el programa
 
-Iniciar Servidor
-  -Abrir carpeta server
-    $cd server
+## Iniciar Servidor
+
+### Abrir carpeta server
+    
+		cd server
+		
+### Instalar los modulos de node
+    
+		npm install
   
-  -Instalar los modulos de node
-    $npm install
+### Iniciar servidor
+    
+		npm run dev
   
-  -Iniciar servidor
-    $npm run dev
+	
+## Iniciar Cliente
   
- Iniciar Cliente
-  -Abrir carpeta cliente
-    $cd cliente
+### Abrir carpeta cliente
+    
+		cd cliente
   
-  -Instalar los modulos de node
-    $npm install
+### Instalar los modulos de node
+    
+		npm install
   
-  -Iniciar cliente
-    $npm run dev
+### Iniciar cliente
+    
+		npm run dev
